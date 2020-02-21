@@ -1,0 +1,3 @@
+Editor background - #211e1c
+Sidebar background -  #2B1811
+Accent color: #fffe97

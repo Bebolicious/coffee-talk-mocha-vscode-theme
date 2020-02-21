@@ -1,0 +1,21 @@
+{
+    "name": "coffee-talk-vscode-theme",
+    "displayName": "Coffee-talk-vscode-theme",
+    "description": "A smooth VS Code theme with comfortable colors!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coffee Talk VSCode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coffee Talk-color-theme-mocha.json"
+            }
+        ]
+    }
+}
