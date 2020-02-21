@@ -1,4 +1,4 @@
-# README
+# Coffee Talk - Mocha ☕
 ## This is the README for your extension "coffee-talk-vscode-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
